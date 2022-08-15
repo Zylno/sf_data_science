@@ -2,9 +2,9 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/Zylno/sf_data_science/tree/main/project_0#Описание-проекта)
-[2. Какой кейс решем?](https://github.com/Zylno/sf_data_science/tree/main/project_0#Какой кейс решем?)
-[3. Краткая информация о данных](https://github.com/Zylno/sf_data_science/tree/main/project_0#Краткая информация о данных)
-[4. Этапы работы над проектом](https://github.com/Zylno/sf_data_science/tree/main/project_0#Этапы работы над проектом)
+[2. Какой кейс решем?](https://github.com/Zylno/sf_data_science/tree/main/project_0#Какой-кейс-решем?)
+[3. Краткая информация о данных](https://github.com/Zylno/sf_data_science/tree/main/project_0#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/Zylno/sf_data_science/tree/main/project_0#Этапы-работы-над-проектом)
 [5. Результаты](https://github.com/Zylno/sf_data_science/tree/main/project_0#Результаты)
 [6. Выводы](https://github.com/Zylno/sf_data_science/tree/main/project_0#Выводы)
 
