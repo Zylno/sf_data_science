@@ -9,7 +9,6 @@ def random_predict(number:int=1) -> int:
     Returns:
         int: Число попыток
     """
-
     count = 0
     min = 1
     max = 101
@@ -25,6 +24,7 @@ def random_predict(number:int=1) -> int:
             break
     return(count)
 
+
 def score_game(random_predict) -> int:
     """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
 
@@ -34,7 +34,6 @@ def score_game(random_predict) -> int:
     Returns:
         int: среднее количество попыток
     """
-
     count_ls = [] # список для сохранения количества попыток
     np.random.seed(1) # фиксируем сид для воспроизводимости
     random_array = np.random.randint(1, 101, size=(1000)) # загадали список чисел
